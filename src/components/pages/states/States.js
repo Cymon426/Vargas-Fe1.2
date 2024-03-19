@@ -8,7 +8,7 @@ import "./statestyles.css"
 function States() {
   return (
     <div className="content">
-      <h1 style={{ textAlign: "center" }}>John Cymon Vargas</h1>
+      <h1 style={{ textAlign: "center" }}>John Cymon Vargas SN:2021107036</h1>
     </div>
   );
 }
