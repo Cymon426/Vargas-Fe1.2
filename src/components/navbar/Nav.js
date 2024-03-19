@@ -12,16 +12,16 @@ function Nav() {
             <div className="left">
                 <ul>
                     <li>
-                    <Link to="/states" className="link">States</Link>
+                    <Link to="/states" className="link">Vargas</Link>
                     </li>
                     <li>
-                    <Link to="/effect" className="link">Effect</Link>
+                    <Link to="/effect" className="link">Member #2</Link>
                     </li>
                     <li>
-                        <Link to="/map" className="link">Map</Link>
+                        <Link to="/map" className="link">Member #3</Link>
                     </li>
                     <li>
-                        <Link to="/hooks" className="link">Hooks</Link>
+                        <Link to="/hooks" className="link">Member #4</Link>
                     </li>
                 </ul>
             </div>
